@@ -1,0 +1,31 @@
+C++ IF-ELSE – BASIC CODING QUESTIONS
+
+1. Write a program to check whether a number is positive or negative.
+
+2. Write a program to check whether a number is even or odd.
+
+3. Write a program to compare two numbers and print the greater one.
+
+4. Write a program to check whether a number is divisible by 5.
+
+5. Write a program to check whether a number is divisible by 2.
+
+6. Write a program to check whether a number is zero or not.
+
+7. Write a program to check whether a character is a vowel or not.
+
+8. Write a program to check whether a number is greater than 10 or not.
+
+9. Write a program to check whether a number is less than 100 or not.
+
+10. Write a program to check whether a student passed (marks >= 40) or failed.
+
+11. Write a program to check whether a number is a multiple of 3.
+
+12. Write a program to check whether a number is greater than or equal to 50.
+
+13. Write a program to check whether a number is equal to 0.
+
+14. Write a program to check whether a number is not equal to 10.
+
+15. Write a program to check whether a person is eligible to vote (age >= 18).

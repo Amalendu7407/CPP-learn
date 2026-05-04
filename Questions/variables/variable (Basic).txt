@@ -1,0 +1,31 @@
+C++ VARIABLES – BASIC CODING QUESTIONS
+
+1. Write a program to declare an integer variable and print it.
+
+2. Write a program to declare and initialize a float variable and display it.
+
+3. Write a program to take an integer input from the user and print it.
+
+4. Write a program to take two numbers as input and print their sum.
+
+5. Write a program to take two numbers and print their difference.
+
+6. Write a program to multiply two numbers and display the result.
+
+7. Write a program to divide two numbers and print the result.
+
+8. Write a program to store your age in a variable and print it.
+
+9. Write a program to store your name in a variable and display it.
+
+10. Write a program to take a character input and print it.
+
+11. Write a program to declare multiple variables and print all values.
+
+12. Write a program to calculate the sum of three numbers using variables.
+
+13. Write a program to calculate the average of two numbers.
+
+14. Write a program to store length and width and calculate area of rectangle.
+
+15. Write a program to declare a constant variable and print its value.
