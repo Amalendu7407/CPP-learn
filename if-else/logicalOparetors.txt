@@ -1,0 +1,31 @@
+amader ekahne 3 dhoroner oparetors ache (&&  , ||  , !)
+
+logical AND ----> jokhan 2 ti ba 3 ti orthat joto guli e condition thakuk sob condition jokhan "TRUE" hobe tokhan e ekmatro "AND" oparetor babohar kora hoi
+
+    example
+-----------------
+
+0   0   0
+0   1   0   
+1   0   0   
+1   1   1  
+
+
+logical OR ------------> jekono ekta statement "TRUE" hole e output "TRUE" nahole"FALSE"
+
+    example
+------------------
+0   0   0   
+0   1   1
+1   0   1   
+1   1   1   
+
+
+
+logical NOT ------> "TRUE" thakle "FALSE"   ar "FALSE" thakle "TRUE"
+
+
+    example
+---------------
+0   1
+1   0
