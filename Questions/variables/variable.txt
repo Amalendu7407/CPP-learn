@@ -1,0 +1,31 @@
+C++ VARIABLES – CODING QUESTIONS
+
+1. Write a program to declare an integer variable and print its value.
+
+2. Write a program to input two numbers and print their sum.
+
+3. Write a program to find the product of two float numbers.
+
+4. Write a program to swap two variables using a third variable.
+
+5. Write a program to swap two variables without using a third variable.
+
+6. Write a program to find the area of a circle using variables.
+
+7. Write a program to convert temperature from Celsius to Fahrenheit.
+
+8. Write a program to calculate simple interest.
+
+9. Write a program to find the average of three numbers.
+
+10. Write a program to convert kilometers into meters and centimeters.
+
+11. Write a program to take character input and display its ASCII value.
+
+12. Write a program to check the size of different data types using sizeof.
+
+13. Write a program to demonstrate type casting (int to float).
+
+14. Write a program using const to define a fixed value of PI and calculate area.
+
+15. Write a program to demonstrate global and local variables.

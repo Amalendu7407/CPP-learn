@@ -1,0 +1,33 @@
+C++ IF-ELSE – CODING QUESTIONS
+
+1. Write a program to check whether a number is positive or negative.
+
+2. Write a program to check whether a number is even or odd.
+
+3. Write a program to find the largest of two numbers.
+
+4. Write a program to find the largest of three numbers.
+
+5. Write a program to check whether a number is divisible by 5 and 11.
+
+6. Write a program to check whether a character is a vowel or consonant.
+
+7. Write a program to check whether a year is a leap year or not.
+
+8. Write a program to check whether a number is divisible by 3 but not by 7.
+
+9. Write a program to input marks and check pass or fail (pass marks = 40).
+
+10. Write a program to calculate grade based on marks:
+    90+ = A, 75–89 = B, 50–74 = C, below 50 = Fail.
+
+11. Write a program to check whether a number is a multiple of both 2 and 3.
+
+12. Write a program to find absolute value of a number.
+
+13. Write a program to check whether a character is uppercase, lowercase, or digit.
+
+14. Write a program to calculate electricity bill based on units:
+    up to 100 = ₹5/unit, 101–200 = ₹7/unit, above 200 = ₹10/unit.
+
+15. Write a program to check whether three sides form a valid triangle.
