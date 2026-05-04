@@ -28,4 +28,4 @@ C++ VARIABLES – CODING QUESTIONS
 
 14. Write a program using const to define a fixed value of PI and calculate area.
 
-15. Write a program to demonstrate global and local variables.
+15. Write a program to demonstrate global and local variables .

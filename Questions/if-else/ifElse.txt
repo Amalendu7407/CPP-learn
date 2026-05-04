@@ -28,6 +28,6 @@ C++ IF-ELSE – CODING QUESTIONS
 13. Write a program to check whether a character is uppercase, lowercase, or digit.
 
 14. Write a program to calculate electricity bill based on units:
-    up to 100 = ₹5/unit, 101–200 = ₹7/unit, above 200 = ₹10/unit.
+     up to 100 = ₹5/unit, 101–200 = ₹7/unit, above 200 = ₹10/unit.
 
 15. Write a program to check whether three sides form a valid triangle.
